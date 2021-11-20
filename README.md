@@ -1,2 +1,11 @@
 # CO<sub>2</sub>_chemical_solvents
 Datasets, models and scripts related to the publication on the design of new amines for the effective CO<sub>2</sub> absoprtion.
+## ./src directiory: 
+Jupyter notebooks used for model building, evaluation and virtual screening.
+## ./data directiory: 
+Learning set (descriptors, SMILES of compounds, property values).
+## ./results directiory: 
+Models and predicted values.
+## ./screening directiory: 
+Dataset (descriptors, SMILES of compounds) used for screening.
+
