@@ -1,0 +1,13 @@
+desc_name,dG_MD_ylog_param_XGB
+IIRA14+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.05, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 300, 'subsample': 0.7}"
+IIRA14P+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 70, 'subsample': 0.7}"
+IIRA15+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.05, 'max_depth': 10, 'min_child_weight': 5, 'n_estimators': 300, 'subsample': 0.7}"
+IIRA16+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.1, 'max_depth': 10, 'min_child_weight': 5, 'n_estimators': 100, 'subsample': 0.7}"
+IIRA24+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.05, 'max_depth': 3, 'min_child_weight': 1, 'n_estimators': 300, 'subsample': 0.7}"
+IIRA24P+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.1, 'max_depth': 10, 'min_child_weight': 5, 'n_estimators': 100, 'subsample': 0.7}"
+IIRA25+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 100, 'subsample': 0.7}"
+IIRAB14+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.05, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 300, 'subsample': 0.7}"
+IIRAB15+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.05, 'max_depth': 10, 'min_child_weight': 5, 'n_estimators': 300, 'subsample': 0.7}"
+IIRAB16+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.1, 'max_depth': 10, 'min_child_weight': 5, 'n_estimators': 100, 'subsample': 0.7}"
+IIRAB24+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.05, 'max_depth': 3, 'min_child_weight': 1, 'n_estimators': 300, 'subsample': 0.7}"
+IIRAB25+OPERA,"{'colsample_bytree': 0.7, 'learning_rate': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 100, 'subsample': 0.7}"

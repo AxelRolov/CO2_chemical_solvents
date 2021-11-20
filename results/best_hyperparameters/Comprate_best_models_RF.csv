@@ -1,0 +1,19 @@
+CompRate_ylog_param_RF,desc_name
+"{'bootstrap': True, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 50}",IA26AP+OPERA
+"{'bootstrap': True, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 100}",IA36AP+OPERA
+"{'bootstrap': True, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 500}",IAB26AP+OPERA
+"{'bootstrap': True, 'max_depth': 10, 'max_features': 0.3, 'n_estimators': 300}",IIRA13+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 300}",IIRA14+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 500}",IIRA15+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 300}",IIRA16+OPERA
+"{'bootstrap': True, 'max_depth': 10, 'max_features': 0.3, 'n_estimators': 500}",IIRA17+OPERA
+"{'bootstrap': True, 'max_depth': 10, 'max_features': 0.3, 'n_estimators': 100}",IIRA23+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 300}",IIRA24+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 500}",IIRA25+OPERA
+"{'bootstrap': True, 'max_depth': 10, 'max_features': 0.3, 'n_estimators': 300}",IIRAB13+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 300}",IIRAB14+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 500}",IIRAB15+OPERA
+"{'bootstrap': True, 'max_depth': 10, 'max_features': 0.3, 'n_estimators': 300}",IIRAB17+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 100}",IIRAB23+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 100}",IIRAB24+OPERA
+"{'bootstrap': True, 'max_depth': None, 'max_features': 0.3, 'n_estimators': 500}",IIRAB25+OPERA
